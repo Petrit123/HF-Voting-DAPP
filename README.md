@@ -1,3 +1,7 @@
+# HF-Voting-DAPP
+
+A Vuejs voting application that leverages Hyperledger Fabric and IBM blockchain platform.
+
 # vueproject
 
 > A Vue.js project
