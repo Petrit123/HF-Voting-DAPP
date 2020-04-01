@@ -2,13 +2,13 @@
  <div class="posts">
   <h1>2020 Student Union Election</h1>
   <input type="radio" id="one" value="Student1" v-model="picked">
-  <label for="one">Nick</label>
+  <label for="one">Mark</label>
   <br>
   <input type="radio" id="two" value="Student2" v-model="picked">
-  <label for="two">Rama</label>
+  <label for="two">Dave</label>
   <br>
   <input type="radio" id="two" value="Student3" v-model="picked">
-  <label for="two">Jason</label>
+  <label for="two">Gary</label>
   <br>
   <input type="radio" id ="two" value="Student4" v-model="picked">
   <label for="two">Petrit</label>
