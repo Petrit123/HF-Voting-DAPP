@@ -1,0 +1,9 @@
+{
+  "connection_file": "ibpConnection.json",
+  "appAdmin": "app-admin",
+  "appAdminSecret": "app-adminpw",
+  "orgMSPID": "votermsp",
+  "caName": "https://ndc5d18-voterca.mycluster2-800520-7101bd5693c5b208d3f5d44f110228db-0000.us-south.containers.appdomain.cloud:7054",
+  "userName": "V1",
+  "gatewayDiscovery": { "enabled": true, "asLocalhost": false }
+}
