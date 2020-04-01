@@ -13,21 +13,5 @@ queryWithQueryString(selected) {
     return Api().post('queryWithQueryString', {
         selected: selected
     })
-},
-
-registerVoter(voterId, registrarId, firstName, lastName) {
-    return Api().post('registerVoter', {
-      voterId: voterId,
-      registrarId: registrarId,
-      firstName: firstName,
-      lastName: lastName,
-      
-    }) 
-  },
-  validateVoter(voterId) {
-    return Api().post('validateVoter', {
-      voterId: voterId
-    }) 
-  }
-
+}
 }
