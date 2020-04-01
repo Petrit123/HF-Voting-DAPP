@@ -86,7 +86,7 @@ export default {
         console.log(apiResponse);
 
         let response = `Successfully recorded vote for ${this.picked}.
-           for voter with voterId ${apiResponse.data.voterId}. Thanks for
+           for voter with voterId ${this.input.voterId}. Thanks for
            doing your part and voting!`;
         this.response = response;
 
